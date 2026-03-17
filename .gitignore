@@ -9,6 +9,9 @@ out/
 build/
 dist/
 
+# Worktrees (isolated branches)
+.worktrees/
+
 # Misc
 .DS_Store
 *.pem
